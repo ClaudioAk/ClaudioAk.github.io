@@ -1,1 +1,23 @@
-Simple Python Projects.
+"""Simple Python Projects se if-statements to make a program perform based on variables"""
+passscore=60
+Maxscore=100
+Maxscore=int(Maxscore)
+score= input("Plase Enter your score")
+score= int(score)
+if score>=90 and score<=100:
+    print('Mark= A')
+elif score>=80 and score<=89:
+    print('Mark= B')
+elif score>=70 and score<=79:
+    print('Mark= C')
+elif score>=60 and score<=69:
+    print('Mark= D')
+elif score>Maxscore :
+    print("Wrong Entry")
+else:
+    print('Mark= F')
+if score >=passscore and score<Maxscore:
+    print('congartulations')
+
+
+
