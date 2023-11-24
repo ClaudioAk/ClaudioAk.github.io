@@ -1,4 +1,4 @@
-"""Simple Python Projects se if-statements to make a program perform based on variables"""
+#Simple Python Projects se if-statements to make a program perform based on variables
 passscore=60
 Maxscore=100
 Maxscore=int(Maxscore)
